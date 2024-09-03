@@ -35,18 +35,19 @@ performance of our TAMIC approach on sequential recommendation, compared with th
 ## Requirement
 
 ```
-pytorch == 1.14
+tensorflow == 1.14
 python == 3.7
 ```
 
 ## Instruction
+0, You can download the Amazon Books dataset from:
+http://jmcauley.ucsd.edu/data/amazon/
+
 1, You can run the code by: 
 
 ```
-python code/train.py
+python code/train.py --dataset book --model MIND
 ```
-
-3, You can change customize the initial interest number K and \delta K in utils.Config.
 
 
 # Reference
