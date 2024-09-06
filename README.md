@@ -3,7 +3,7 @@
 # TAMIC
 
 ## Introduction
-this is the official implementaion of TAMIC for the SDM paper "Time-aware Multi-interest Capsule Network for Sequential Recommendation". 
+This is the official implementation of TAMIC for the SDM paper "Time-aware Multi-interest Capsule Network for Sequential Recommendation". 
 
 
 ## Abstract
